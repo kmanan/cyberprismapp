@@ -6,6 +6,10 @@ Last updated: January 22, 2024
 
 CyberPrism ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile application (the "App") handles data.
 
+## About the App
+
+CyberPrism is a mobile application designed to help security professionals track and analyze vulnerabilities. The app provides a user-friendly interface to view, monitor, and analyze security vulnerabilities, including CVE details, NIST analysis, and threat intelligence information. All vulnerability data is stored locally on your device for privacy and offline access.
+
 ## Data Collection and Storage
 
 We do not collect or store any personal information. The app:

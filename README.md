@@ -2,6 +2,8 @@
 
 A mobile application designed to help security professionals track and analyze vulnerabilities efficiently.
 
+CyberPrism takes known exploited vulnerabilities and analyzes them through multiple lenses, providing cybersecurity professionals with comprehensive insights. Powered by AI*
+
 ## Features
 
 ### Real-time Vulnerability Tracking

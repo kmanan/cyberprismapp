@@ -25,11 +25,20 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Trend analysis and metrics
 - Detailed vulnerability information
 
+### Threat Intelligene Analysis
+- AI sumamries of latest Threat Intelligence reports
+- Mandiant, Unit 42 and Microsoft (currently)
+- Share as image or text
+
 ### User Experience
 - Dark/Light theme support
-- Offline data storage
+- Bookmarks
+- Custom notes for Boomarks
+- Export as PDF (for vulnerability analysis)
+- Share as Image or text (Threat Intelligence report)
+- iCloud or Google Cloud Backups
+- Push notifications (still WIP)
 - Pull-to-refresh updates
-- Selectable text for easy copying
 - Responsive and modern Material Design 3 UI
 
 ## Technical Details

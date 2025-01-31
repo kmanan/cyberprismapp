@@ -6,7 +6,7 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 
 ## Features
 
-### Real-time Vulnerability Tracking
+### Real-time Vulnerability Tracking of KNown Exploited Vulnerabilities
 - Monitor latest exploited vulnerabilities
 - Track CVE details and updates
 - View comprehensive vulnerability metrics and trends

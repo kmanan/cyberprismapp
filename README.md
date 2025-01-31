@@ -55,4 +55,12 @@ This app prioritizes user privacy:
 - Secure API communications
 
 ## Version
-Current version: 1.0.0+3
+Current version: 1.0.0+27
+
+## Back-end Infrastrutcture
+
+- Selfhosted ProxMox - Ubuntu Server
+- FastAPI
+- Redis
+- Postgresql
+- Firebase

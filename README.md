@@ -6,18 +6,19 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 
 ## Features
 
-### Real-time Vulnerability Tracking of KNown Exploited Vulnerabilities
+### Keep-up and Understand Known Exploited Vulnerabilities
 - Monitor latest exploited vulnerabilities
-- Track CVE details and updates
-- View comprehensive vulnerability metrics and trends
+- Track CVE details and how they impact your day-to-day
+- View comprehensive vulnerability anlaysis and trends
 
-### Advanced Analytics
+### Advanced Analysis of Each Known Exploited Vulnerability in your Pocket
 - MITRE Analysis
 - NIST Analysis
 - Attack Surface Analysis
 - Regulatory Analysis
 - Threat Intelligence Analysis
 - Executive Updates
+- Export as PDF
 
 ### Dashboard Features
 - Total CVE count with latest additions
@@ -43,6 +44,7 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 
 ## Technical Details
 - Built with Flutter
+- On iOS and Android
 - Uses Hive for local storage
 - Material Design 3 theming
 - Provider for state management
@@ -53,6 +55,7 @@ This app prioritizes user privacy:
 - No personal data collection
 - No analytics tracking
 - Secure API communications
+- No login required
 
 ## Version
 Current version: 1.0.0+27

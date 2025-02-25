@@ -25,6 +25,7 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Top affected vendors and products
 - Trend analysis and metrics
 - Detailed vulnerability information
+- Threat actor metrics (v1.1)
 
 ### Threat Intelligene Analysis
 - AI sumamries of latest Threat Intelligence reports
@@ -37,7 +38,6 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Threat actors mapped to CVEs and CVEs mapped to products
 - Threat actors mapped to known tools
 - Threat actors mapped to target industries
-
 
 ### User Experience
 - Dark/Light theme support

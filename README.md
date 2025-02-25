@@ -31,6 +31,14 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Mandiant, Unit 42 and Microsoft (currently)
 - Share as image or text
 
+### Threat Actors Attribution
+- Threat actors by country
+- Threat actor popup cards
+- Threat actors mapped to CVEs and CVEs mapped to products
+- Threat actors mapped to known tools
+- Threat actors mapped to target industries
+
+
 ### User Experience
 - Dark/Light theme support
 - Bookmarks
@@ -41,6 +49,8 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Push notifications (still WIP)
 - Pull-to-refresh updates
 - Responsive and modern Material Design 3 UI
+- Offline mode with cached data
+- Working push notifications
 
 ## Technical Details
 - Built with Flutter
@@ -58,7 +68,7 @@ This app prioritizes user privacy:
 - No login required
 
 ## Version
-Current version: 1.0.0+27
+Current version: 1.1
 
 ## Back-end Infrastrutcture
 

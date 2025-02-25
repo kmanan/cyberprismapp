@@ -31,7 +31,7 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Mandiant, Unit 42 and Microsoft (currently)
 - Share as image or text
 
-### Threat Actors Attribution
+### Threat Actors Attribution (v1.1)
 - Threat actors by country
 - Threat actor popup cards
 - Threat actors mapped to CVEs and CVEs mapped to products
@@ -46,11 +46,10 @@ CyberPrism takes known exploited vulnerabilities and analyzes them through multi
 - Export as PDF (for vulnerability analysis)
 - Share as Image or text (Threat Intelligence report)
 - iCloud or Google Cloud Backups
-- Push notifications (still WIP)
-- Pull-to-refresh updates
+- Push notifications (v1.1 fixed)
+- Pull-to-refresh updates (v1.1 fixed)
 - Responsive and modern Material Design 3 UI
-- Offline mode with cached data
-- Working push notifications
+- Offline mode with cached data (v1.1)
 
 ## Technical Details
 - Built with Flutter
